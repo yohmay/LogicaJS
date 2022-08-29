@@ -16,7 +16,6 @@ As restrições são:
 O resultado esperado:
 - É que o programa deve informar se o chute foi acima, abaixo ou igual ao valor aleatório gerado no início do programa.
 
-
 Pseudocódigos:
 
 Input: palavra usada para receber dados do usuário
